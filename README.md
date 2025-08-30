@@ -30,3 +30,14 @@ streamlit run app.py
     multilingual.py: Translation & support for other languages
 
     multimodal.py: (if used) handles image/text/audio
+```
+
+## 📸 Screenshots  
+
+![Chatbot Screenshot 1](Screenshot%202025-08-30%20121851.png)  
+![Chatbot Screenshot 2](Screenshot%202025-08-30%20121913.png)
+
+
+## 🎥 Demo Video  
+
+[Watch the demo video](chatbot-video.mp4)
